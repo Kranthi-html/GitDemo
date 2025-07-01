@@ -1,9 +1,5 @@
-P{
-psvm
+public class A{
+    publi static void main(String args[]){
+        System.out.println("Hello World");
+    }
 }
-
-
-git config --global user.name "Your Name"
- 
-git config --global user.email "your.email@example.com"
- 
